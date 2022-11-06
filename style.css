@@ -17,8 +17,6 @@ main {
     display: flex;
     flex-direction: column;
     padding: 0 5%;
-    border-left: 1px solid rgb(82, 82, 82);
-    border-right: 1px solid rgb(82, 82, 82);
     margin: auto;
 }
 
@@ -63,4 +61,9 @@ div {
 
 span {
     color: rgb(82, 82, 82);
+}
+
+.name, .info, .experience, .education, .courses, .add, .links {
+    border-left: 1px solid rgb(82, 82, 82);
+    border-right: 1px solid rgb(82, 82, 82);
 }
