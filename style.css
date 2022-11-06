@@ -46,7 +46,7 @@ div {
 }
 
 .name_photo {
-    background-image: url(/Photo.png);
+    background-image: url(./Photo.png);
     width: 200px;
     background-size: contain;
     background-repeat: no-repeat;
