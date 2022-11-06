@@ -8,7 +8,7 @@ body {
     color: black;
     font-size: 16px;
     font-family: Roboto;
-    margin: auto;
+    
     
 }
 
@@ -16,9 +16,10 @@ main {
     width: 50vw;
     display: flex;
     flex-direction: column;
-    margin: 0 5%;
+    padding: 0 5%;
     border-left: 1px solid rgb(82, 82, 82);
     border-right: 1px solid rgb(82, 82, 82);
+    margin: auto;
 }
 
 h1 {
