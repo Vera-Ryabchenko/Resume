@@ -15,8 +15,7 @@ body {
 
 main {
     display: flex;
-    flex-direction: column;
-    padding: 0 5%;
+    flex-direction: column:
     margin: auto;
 }
 
@@ -66,4 +65,5 @@ span {
 .name, .info, .experience, .education, .courses, .add, .links {
     border-left: 1px solid rgb(82, 82, 82);
     border-right: 1px solid rgb(82, 82, 82);
+    margin: 0 5%;
 }
